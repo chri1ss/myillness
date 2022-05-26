@@ -1,7 +1,7 @@
 module.exports = {
  apps: [
   {
-   name: "Majo.exe - Bot",
+   name: "MyILLness - Bot",
    script: "./index.js",
    watch: true,
    node_args: "--trace-deprecation",
