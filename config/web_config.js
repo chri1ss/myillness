@@ -9,7 +9,7 @@ module.exports = {
   arc_token: "oFnnmBwr", // Arc.io token
   status_page: {
    no_embed: false, // Display only link to external status page
-   embed: "https://wl.hetrixtools.com/r/b327a38f4c3d4cdb1068dfe61e1b2144/", // External status page link
+   embed: "https://myillness.de", // External status page link
   },
  },
  web: {
