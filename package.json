@@ -1,7 +1,7 @@
 {
-  "name": "majo.exe",
+  "name": "Myillness",
   "version": "5.0.0",
-  "description": "Majo.exe have almost everything - Fun, Memes, Images, Giveaway Moderation, Anime, NSFW and eveb more!. Majo.exe serve over 150 commands!",
+  "description": "MyILLness Bot 4 Every usage",
   "author": "Igor Kowalczyk [Majonez.exe#3957]",
   "main": "node index.js",
   "scripts": {
