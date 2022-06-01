@@ -13,7 +13,7 @@ module.exports = {
    args: ["--color", "--bot"],
   },
   {
-   name: "Majo.exe - Dashboard",
+   name: "myiLLness - Dashboard",
    script: "./index.js",
    watch: true,
    node_args: "--trace-deprecation",
@@ -25,7 +25,7 @@ module.exports = {
    args: ["--color", "--dashboard"],
   },
   {
-   name: "Majo.exe - API",
+   name: "myiLLness.exe - API",
    script: "./index.js",
    watch: true,
    node_args: "--trace-deprecation",
